@@ -1,0 +1,11 @@
+node_modules
+.next
+.vercel
+.wrangler
+.dev.vars
+.env*.local
+test-results
+playwright-report
+*.tsbuildinfo
+next-env.d.ts
+.DS_Store

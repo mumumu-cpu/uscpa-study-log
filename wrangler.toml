@@ -1,0 +1,13 @@
+name = "uscpa-study-log"
+compatibility_date = "2025-09-01"
+compatibility_flags = ["nodejs_compat"]
+pages_build_output_dir = ".vercel/output/static"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "uscpa-study"
+database_id = "29ebcd41-e575-4b22-b639-87e48e97231f"
+migrations_dir = "migrations"
+
+[ai]
+binding = "AI"
